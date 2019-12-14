@@ -4,7 +4,7 @@
 Numpy is a Python Library for dealing with numerical useful python package.
 
 
-Use the package manager [numpy](https://pip.pypa.io/en/stable/)to install numpy package.[Google](google.com)
+Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
 
 
 '''bash
