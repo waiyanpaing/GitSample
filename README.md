@@ -4,7 +4,7 @@
 Numpy is a Python Library for dealing with numerical useful python package.
 
 
-Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
+Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package. [Google](google.com)
 
 
 ```bash
@@ -16,15 +16,15 @@ pip install numpy
 
 ```python
 import numpy
-numpy.pluralized('image')# returns'Image'
-numpy.pluralized('goose')# returns'geese'
-numpy.singularize('phenomena')#returns'Phenomenon'
+numpy.pluralized('image')# returns 'Image'
+numpy.pluralized('goose')# returns 'geese'
+numpy.singularize('phenomena')# returns 'Phenomenon'
 ```
 
 
 ![alt test](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
-##Contributing
+## Contributing
 
 ```
 Pull Request are Welcome. For Major Changes, Please open and issue first to discuss what you would like to change.
